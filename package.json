@@ -1,5 +1,5 @@
 {
-  "name": "hi",
+  "name": "major_credit_calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll=false",
     "eject": "react-scripts eject",
     "lint": "eslint .",
     "lint:fix": "eslint --fix ."
